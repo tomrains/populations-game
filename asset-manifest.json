@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/population-game/static/css/main.99715417.chunk.css",
-    "main.js": "/population-game/static/js/main.c1093078.chunk.js",
-    "main.js.map": "/population-game/static/js/main.c1093078.chunk.js.map",
-    "runtime~main.js": "/population-game/static/js/runtime~main.3c3300f8.js",
-    "runtime~main.js.map": "/population-game/static/js/runtime~main.3c3300f8.js.map",
-    "static/css/2.510409cd.chunk.css": "/population-game/static/css/2.510409cd.chunk.css",
-    "static/js/2.0f178dae.chunk.js": "/population-game/static/js/2.0f178dae.chunk.js",
-    "static/js/2.0f178dae.chunk.js.map": "/population-game/static/js/2.0f178dae.chunk.js.map",
-    "index.html": "/population-game/index.html",
-    "precache-manifest.01a0f8ec2e301bf4b033e76665948e04.js": "/population-game/precache-manifest.01a0f8ec2e301bf4b033e76665948e04.js",
-    "service-worker.js": "/population-game/service-worker.js",
-    "static/css/2.510409cd.chunk.css.map": "/population-game/static/css/2.510409cd.chunk.css.map",
-    "static/css/main.99715417.chunk.css.map": "/population-game/static/css/main.99715417.chunk.css.map"
+    "main.css": "/populations-game/static/css/main.99715417.chunk.css",
+    "main.js": "/populations-game/static/js/main.20205094.chunk.js",
+    "main.js.map": "/populations-game/static/js/main.20205094.chunk.js.map",
+    "runtime~main.js": "/populations-game/static/js/runtime~main.b20d5b13.js",
+    "runtime~main.js.map": "/populations-game/static/js/runtime~main.b20d5b13.js.map",
+    "static/css/2.510409cd.chunk.css": "/populations-game/static/css/2.510409cd.chunk.css",
+    "static/js/2.0f178dae.chunk.js": "/populations-game/static/js/2.0f178dae.chunk.js",
+    "static/js/2.0f178dae.chunk.js.map": "/populations-game/static/js/2.0f178dae.chunk.js.map",
+    "index.html": "/populations-game/index.html",
+    "precache-manifest.30c9ddbb2908c6b2c0eb8e555249d66c.js": "/populations-game/precache-manifest.30c9ddbb2908c6b2c0eb8e555249d66c.js",
+    "service-worker.js": "/populations-game/service-worker.js",
+    "static/css/2.510409cd.chunk.css.map": "/populations-game/static/css/2.510409cd.chunk.css.map",
+    "static/css/main.99715417.chunk.css.map": "/populations-game/static/css/main.99715417.chunk.css.map"
   }
 }
