@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/populations-game/precache-manifest.30c9ddbb2908c6b2c0eb8e555249d66c.js"
+  "/populations-game/precache-manifest.235eb58b1191f70afcf2a0bce320733e.js"
 );
 
 self.addEventListener('message', (event) => {

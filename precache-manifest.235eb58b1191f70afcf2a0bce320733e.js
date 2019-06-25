@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e553f9707187c2f283dcbb141bb4f590",
+    "revision": "b6d2cee20fc589860ff34b3cca7d0544",
     "url": "/populations-game/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/populations-game/static/css/2.510409cd.chunk.css"
   },
   {
-    "revision": "fc38816f4d59b0362f14",
-    "url": "/populations-game/static/css/main.99715417.chunk.css"
+    "revision": "c2f834cbcc4ba5c0540a",
+    "url": "/populations-game/static/css/main.d895b58d.chunk.css"
   },
   {
     "revision": "7168ddcbb3eda86db519",
     "url": "/populations-game/static/js/2.0f178dae.chunk.js"
   },
   {
-    "revision": "fc38816f4d59b0362f14",
-    "url": "/populations-game/static/js/main.20205094.chunk.js"
+    "revision": "c2f834cbcc4ba5c0540a",
+    "url": "/populations-game/static/js/main.e6159406.chunk.js"
   },
   {
     "revision": "a7455351e668ce0c56ca",
